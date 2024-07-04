@@ -13,13 +13,12 @@ I'm Lucas Araujo, a Front End developer. I'm currently learning and creating pro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpa13)](https://github.com/anuraghazra/github-readme-stats)
 
-Fiding me:
+<b>Fiding me:</b>
 <br>
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/> <a href="https://www.linkedin.com/in/lucasparaujo/"> </a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/> <a href="https://www.linkedin.com/in/lucasparaujo/"> <br> :arrow_right: Click here </a>
 <br>
 <br>
-or contact me on 📧:
+<b>or contact me 📧:<b/>
 <br>
-<br>
-lucas.paraujo@outlook.com
+<a href="mailto:lucas.paraujo@outlook.com"> :arrow_right: Click here </a>
