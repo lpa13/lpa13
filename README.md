@@ -8,6 +8,7 @@ I'm Lucas Araujo, a Front End developer. I'm currently learning and creating pro
 <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo"/>
 <br>
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="elixir-logo"/>
 <br>
 <br>
 
